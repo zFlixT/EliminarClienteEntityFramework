@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4D8BDD-30AA-447F-8F6F-C1C4572F3500}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\mauri\\desktop\\eliminar_cliente_con_entity_framework_parcial2prograii\\accesodatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7B4D8BDD-30AA-447F-8F6F-C1C4572F3500}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F64A3A7-0451-494E-B4F4-86DFF85E36E5}|EFBeta\\EFBeta.csproj|C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\efbeta\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F64A3A7-0451-494E-B4F4-86DFF85E36E5}|EFBeta\\EFBeta.csproj|solutionrelative:efbeta\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F64A3A7-0451-494E-B4F4-86DFF85E36E5}|EFBeta\\EFBeta.csproj|C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\efbeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F64A3A7-0451-494E-B4F4-86DFF85E36E5}|EFBeta\\EFBeta.csproj|solutionrelative:efbeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4D8BDD-30AA-447F-8F6F-C1C4572F3500}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4D8BDD-30AA-447F-8F6F-C1C4572F3500}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F64A3A7-0451-494E-B4F4-86DFF85E36E5}|EFBeta\\EFBeta.csproj|C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\efbeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F64A3A7-0451-494E-B4F4-86DFF85E36E5}|EFBeta\\EFBeta.csproj|solutionrelative:efbeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\AccesoDatos\\App.Config",
+              "RelativeDocumentMoniker": "AccesoDatos\\App.Config",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\AccesoDatos\\App.Config",
+              "RelativeToolTip": "AccesoDatos\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T01:23:07.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\EFBeta\\Form1.cs",
+              "RelativeDocumentMoniker": "EFBeta\\Form1.cs",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\EFBeta\\Form1.cs",
+              "RelativeToolTip": "EFBeta\\Form1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:43:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\EFBeta\\Form1.cs",
+              "RelativeDocumentMoniker": "EFBeta\\Form1.cs",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\EFBeta\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EFBeta\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:40:36.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\AccesoDatos\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\AccesoDatos\\CustomerRepository.cs",
+              "RelativeToolTip": "AccesoDatos\\CustomerRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:14:15.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\EFBeta\\App.config",
+              "RelativeDocumentMoniker": "EFBeta\\App.config",
+              "ToolTip": "C:\\Users\\mauri\\Desktop\\Eliminar_Cliente_con_Entity_Framework_Parcial2PrograII\\EFBeta\\App.config",
+              "RelativeToolTip": "EFBeta\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAADdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-09T04:33:20.005Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
